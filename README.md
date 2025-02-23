@@ -3,7 +3,7 @@
 ## Overview
 This assignment is part of the **Computer Architecture Lab (CO2008)** course at **Ho Chi Minh City University of Technology**, under the **Faculty of Computer Science and Engineering**. The goal of the assignment is to develop a **Battleship game** using **MIPS assembly language** while utilizing the **MARS MIPS simulator**.
 
-## Learning Outcomes
+
 After completing this assignment, students will be able to:
 - Use the **MARS MIPS simulator** effectively.
 - Implement **arithmetic and data transfer instructions** in MIPS.
